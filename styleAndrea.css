@@ -17,3 +17,9 @@ img{
     width: 50%;
     height: 400px;
 }
+
+ul{
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
+}
